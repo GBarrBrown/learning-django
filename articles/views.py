@@ -1,3 +1,6 @@
+"""
+high level support for doing this and that.
+"""
 from django.shortcuts import render
 from .models import Article
 
